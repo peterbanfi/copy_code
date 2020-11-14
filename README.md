@@ -4,7 +4,7 @@ Copy code with template literals for easy paste to editors' whats supports markd
 
 ## Features
 
-_Transfrom this:_
+_Transform this:_
 const a;
 
 _to this:_
@@ -15,12 +15,13 @@ const a;
 _with adding template literals and new lines:_
 \`\`\`\n${copiedContent}\n\`\`\`
 
-## Marketplace
+### Default keybinding
+
+- Windows: ```Ctrl+Alt+C```
+- Mac: ```cmd+option+C```
+
+### Marketplace
 
 <https://marketplace.visualstudio.com/items?itemName=PeterBanfi.copy-code>
-
-## Extension Settings
-
--
 
 **Enjoy!**
