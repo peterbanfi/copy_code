@@ -2,7 +2,7 @@
 	"name": "copy-code",
 	"displayName": "copy-code",
 	"description": "Copy code with template literals for easy paste to editors' whats supports markdown",
-	"version": "1.1.0",
+	"version": "1.1.2",
 	"publisher": "PeterBanfi",
 	"repository": {
 		"url": "https://github.com/peterbanfi/copy_code"
@@ -27,8 +27,8 @@
 		"keybindings": [
 			{
 				"command": "copy-code.copycode",
-				"key": "ctrl+x+c",
-				"mac": "cmd+x+c"
+				"key": "ctrl+Alt+C",
+				"mac": "cmd+option+C"
 			}
 		]
 	},
