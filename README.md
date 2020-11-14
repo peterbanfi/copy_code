@@ -15,9 +15,9 @@ const a;
 _with adding template literals and new lines:_
 \`\`\`\n${copiedContent}\n\`\`\`
 
-## Requirements
+## Marketplace
 
--
+<https://marketplace.visualstudio.com/items?itemName=PeterBanfi.copy-code>
 
 ## Extension Settings
 
