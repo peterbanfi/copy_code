@@ -23,6 +23,13 @@
 				"command": "copy-code.copycode",
 				"title": "Copy Code"
 			}
+		],
+		"keybindings": [
+			{
+				"command": "copy-code.copycode",
+				"key": "ctrl+x+c",
+				"mac": "cmd+x+c"
+			}
 		]
 	},
 	"scripts": {
