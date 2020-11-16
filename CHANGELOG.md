@@ -17,3 +17,8 @@ All notable changes to the "copy-code" extension will be documented in this file
 - New key binding for Mac
 - New Description in README
 - Added logo
+
+## [1.2.1]
+
+- Logo replaced with transparent
+- Marketplace background set to dark

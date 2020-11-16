@@ -2,7 +2,7 @@
 	"name": "copy-code",
 	"displayName": "copy-code",
 	"description": "Copy code with automatic code-block formatter.",
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"publisher": "PeterBanfi",
 	"author": {
 		"name": "Peter Banfi"
@@ -13,7 +13,7 @@
 	},
 	"icon": "images/copy-code.png",
 	"galleryBanner": {
-		"color": "#00FFFC",
+		"color": "#232323",
 		"theme": "dark"
 	},
 	"engines": {
