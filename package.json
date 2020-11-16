@@ -1,17 +1,37 @@
 {
 	"name": "copy-code",
 	"displayName": "copy-code",
-	"description": "Copy code with template literals for easy paste to editors' whats supports markdown",
-	"version": "1.1.2",
+	"description": "Copy code with automatic code-block formatter.",
+	"version": "1.2.0",
 	"publisher": "PeterBanfi",
+	"author": {
+		"name": "Peter Banfi"
+	},
 	"repository": {
+		"type": "git",
 		"url": "https://github.com/peterbanfi/copy_code"
+	},
+	"icon": "images/copy-code.png",
+	"galleryBanner": {
+		"color": "#00FFFC",
+		"theme": "dark"
 	},
 	"engines": {
 		"vscode": "^1.51.0"
 	},
+	"homepage": "https://github.com/peterbanfi/copy_code/blob/master/README.md",
+	"bugs": {
+		"url": "https://github.com/peterbanfi/copy_code/issues",
+		"email": "p6t6rbanfi@gmail.com"
+	},
 	"categories": [
+		"Formatters",
 		"Other"
+	],
+	"keywords": [
+		"markdown",
+		"clode-block",
+		"copy"
 	],
 	"activationEvents": [
 		"onCommand:copy-code.copycode"
@@ -28,7 +48,7 @@
 			{
 				"command": "copy-code.copycode",
 				"key": "ctrl+Alt+C",
-				"mac": "cmd+option+C"
+				"mac": "Cmd+Shift+F9"
 			}
 		]
 	},
